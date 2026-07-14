@@ -24,7 +24,7 @@ for full and empty flag detection.
 | empty | Output | High when FIFO is empty |
 
 ## How to Simulate
-1. Open [EDA Playground](https://edaplayground.com)
+1. Open [EDA Playground](https://www.edaplayground.com/x/iVU4)
 2. Paste fifo.sv in the Design tab
 3. Paste tb_fifo.sv in the Testbench tab
 4. Select Icarus Verilog 0.9.7
